@@ -1,0 +1,2 @@
+bin/forge-linux-amd64 binary
+*.go text eol=lf
