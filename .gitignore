@@ -1,0 +1,8 @@
+node_modules/
+*.cpuprofile
+*.log
+.env
+.env.*
+*keypair*.json
+credentials
+transcripts*.tar.gz
